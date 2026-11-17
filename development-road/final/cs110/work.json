@@ -4,7 +4,7 @@
   "course": "CS110",
   "name": "Paul Duarte",
   "work": {
-    "project": "Hello World",
+    "project": "Hello World. We will create a mobile game where the character is moving into a new house and he has to unlock everything on the house, like an infinite create type game.",
     "projectDescription": "",
     "path": "arcade",
     "selected": [
@@ -94,7 +94,7 @@
   "team": {
     "name": "Hello World",
     "mode": "team",
-    "project": "Hello World",
+    "project": "Hello World. We will create a mobile game where the character is moving into a new house and he has to unlock everything on the house, like an infinite create type game.",
     "projectRepo": "",
     "members": [
       {
