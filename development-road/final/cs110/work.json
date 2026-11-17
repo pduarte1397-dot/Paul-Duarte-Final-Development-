@@ -49,9 +49,9 @@
     },
     "evidence": {},
     "dailyDraft": {
-      "meeting": "",
-      "worked": "",
-      "next": "",
+      "meeting": "CS110-2026-11-17",
+      "worked": "We planned what we needed to do for the final development project. We came up with what we want to make the game on and how the process will be like.",
+      "next": "I will continue to work with my team on what we are going to put in the game.",
       "blocker": "",
       "evidence": ""
     },
@@ -124,7 +124,17 @@
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "We planned what we needed to do for the final development project. We came up with what we want to make the game on and how the process will be like.",
+        "next": "I will continue to work with my team on what we are going to put in the game.",
+        "blocker": "",
+        "evidence": "",
+        "tasks": []
+      }
+    ]
   },
   "team": {
     "name": "Hello World",
