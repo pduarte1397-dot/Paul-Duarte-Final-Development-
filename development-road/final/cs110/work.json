@@ -12,7 +12,10 @@
       "project-mark",
       "tshirt",
       "ai-promo",
-      "quick-card"
+      "quick-card",
+      "inventory",
+      "search",
+      "modular"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -86,6 +89,24 @@
         "code": "R27",
         "title": "Illustrated player or user quick start",
         "evidence": "Create a one-page illustrated controls or getting-started card for your actual project. Include the source/export and document one person trying its instructions. This is distinct from the required run guide."
+      },
+      {
+        "id": "inventory",
+        "code": "R05",
+        "title": "Inventory or structured collection",
+        "evidence": "Add, remove and inspect structured items. Test limits and invalid actions."
+      },
+      {
+        "id": "search",
+        "code": "R07",
+        "title": "Search, sort and filter",
+        "evidence": "Demonstrate useful search/filter combinations and empty/error states over a real collection."
+      },
+      {
+        "id": "modular",
+        "code": "R09",
+        "title": "Modular architecture",
+        "evidence": "Show a module/class diagram, clear responsibilities and a change made without rewriting unrelated systems."
       }
     ],
     "tasks": [],
