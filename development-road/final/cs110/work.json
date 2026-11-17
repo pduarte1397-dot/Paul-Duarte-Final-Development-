@@ -1,0 +1,41 @@
+{
+  "schema": "final-road-work-v1",
+  "course": "CS110",
+  "name": "Paul Duarte",
+  "work": {
+    "project": "A story worth playing",
+    "path": "story",
+    "selected": [
+      "save"
+    ],
+    "engine": "Unity / C#",
+    "gitEvidence": "I made a new personal GitHub gave it my name and called it Final Development and put it in to this website to move further.",
+    "ai": "Chat GPT is what we will use this to double check our work.",
+    "aiVerify": "I will check if it is the ai is correct or not and make changes of what needs to be fixed.",
+    "notes": "I bring logic in to the group I will see the end product of our finish.",
+    "plan": "",
+    "availability": "",
+    "service": "",
+    "role": "Test Runner",
+    "board": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "personalBoard": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "huddle": {
+      "stage": 0,
+      "returned": false,
+      "goal": "",
+      "personal": "",
+      "questions": ""
+    },
+    "evidence": {},
+    "tasks": [],
+    "dailyNotes": []
+  }
+}
