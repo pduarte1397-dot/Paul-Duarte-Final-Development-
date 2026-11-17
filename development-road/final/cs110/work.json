@@ -12,7 +12,8 @@
       "branch",
       "access",
       "tests",
-      "modular"
+      "modular",
+      "external"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -86,6 +87,12 @@
         "code": "R09",
         "title": "Modular architecture",
         "evidence": "Show a module/class diagram, clear responsibilities and a change made without rewriting unrelated systems."
+      },
+      {
+        "id": "external",
+        "code": "R13",
+        "title": "External playtest and revision",
+        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
       }
     ],
     "tasks": [],
@@ -112,6 +119,10 @@
       {
         "name": "isaias gonzalez",
         "role": "Building structures"
+      },
+      {
+        "name": "Daniel Parma (2)",
+        "role": "output/result tester/checker"
       }
     ]
   },
