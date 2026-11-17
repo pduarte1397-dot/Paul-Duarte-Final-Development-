@@ -6,7 +6,7 @@
   "work": {
     "project": "Hello World",
     "projectDescription": "We will create a mobile game where the character is moving into a new house and he has to unlock everything on the house, like an infinite create type game. We will add multiple ways of creating and unlocking what the character. I will add the backstory and create the structure of the world.",
-    "path": "arcade",
+    "path": "explore",
     "selected": [
       "save",
       "branch",
