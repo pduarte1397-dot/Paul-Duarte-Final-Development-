@@ -6,14 +6,18 @@
   "work": {
     "project": "Hello World",
     "projectDescription": "We will create a mobile game where the character is moving into a new house and he has to unlock everything on the house, like an infinite create type game. We will add multiple ways of creating and unlocking what the character. I will add the backstory and create the structure of the world.",
-    "path": "explore",
+    "path": "arcade",
     "selected": [
       "save",
       "branch",
       "access",
       "tests",
       "modular",
-      "external"
+      "external",
+      "levels",
+      "tshirt",
+      "ai-promo",
+      "project-mark"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -93,6 +97,30 @@
         "code": "R13",
         "title": "External playtest and revision",
         "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
+      },
+      {
+        "id": "levels",
+        "code": "R15",
+        "title": "Three distinct levels or scenarios",
+        "evidence": "Deliver three complete, meaningfully different scenarios using shared systems and test each."
+      },
+      {
+        "id": "tshirt",
+        "code": "R24",
+        "title": "Project T-shirt design + mockup",
+        "evidence": "Create an original graphic connected to your project in Canva or another design tool. Submit the editable source or export, a readable PNG and a shirt mockup, plus a short design explanation. No purchase or paid account is required."
+      },
+      {
+        "id": "ai-promo",
+        "code": "R25",
+        "title": "AI-assisted promotional illustration",
+        "evidence": "Create a project-specific concept or promotional render. Save the tool name, prompt, selected output, your revisions and credits. Label concept artwork clearly; it is not evidence of working gameplay."
+      },
+      {
+        "id": "project-mark",
+        "code": "R26",
+        "title": "Project logo or title treatment",
+        "evidence": "Design a project-specific logo or title mark. Include the editable source, a clean export, one in-context use and a short explanation. Use a separate artifact from the T-shirt graphic."
       }
     ],
     "tasks": [],
