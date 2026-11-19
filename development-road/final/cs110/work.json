@@ -157,6 +157,10 @@
       {
         "name": "Daniel Parma (2)",
         "role": "output/result tester/checker"
+      },
+      {
+        "name": "Mio B",
+        "role": "Finding assets"
       }
     ]
   },
