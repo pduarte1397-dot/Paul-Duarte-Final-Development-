@@ -25,7 +25,7 @@
     "ai": "Chat GPT is what we will use this to double check our work.",
     "aiVerify": "I will check if it is the ai is correct or not and make changes of what needs to be fixed.",
     "notes": "I bring logic in to the group I will see the end product of our finish.",
-    "plan": "",
+    "plan": "We choose the",
     "availability": "",
     "service": "",
     "supportMode": "team",
@@ -149,10 +149,6 @@
       {
         "name": "Paul Duarte",
         "role": "Test Runner"
-      },
-      {
-        "name": "Mio Bal",
-        "role": "Creating assets"
       },
       {
         "name": "isaias gonzalez",
