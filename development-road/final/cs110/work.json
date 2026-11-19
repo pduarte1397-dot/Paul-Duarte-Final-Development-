@@ -97,8 +97,8 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
-      "worked": "I finsish making a git",
-      "next": "",
+      "worked": "I finished making a GitHub for the team. I also made the merch and logo for our game. I also helped with the design of the house.",
+      "next": "I need to keep helping my team and work on more designs.",
       "blocker": "",
       "evidence": ""
     },
@@ -238,6 +238,22 @@
         "blocker": "",
         "evidence": "",
         "tasks": []
+      },
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "I finished making a GitHub for the team. I also made the merch and logo for our game. I also helped with the design of the house.",
+        "next": "I need to keep helping my team and work on more designs.",
+        "blocker": "",
+        "evidence": "",
+        "tasks": [
+          {
+            "title": "Create a github to see how the game runs",
+            "due": "2026-11-20T13:19",
+            "done": false,
+            "result": ""
+          }
+        ]
       }
     ]
   },
