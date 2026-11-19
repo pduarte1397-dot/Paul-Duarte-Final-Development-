@@ -88,11 +88,11 @@
       "strokes": []
     },
     "huddle": {
-      "stage": 1,
+      "stage": 2,
       "returned": true,
       "goal": "We will produce a three level game that can me used in a mobile setting",
-      "personal": "",
-      "questions": ""
+      "personal": "My role is a test runner where I test the final game and help the builder with there work both working on what we need to do.",
+      "questions": "No questions, test on working on the games."
     },
     "evidence": {},
     "dailyDraft": {
